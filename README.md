@@ -24,6 +24,7 @@ To start a code block, you need three backticks "```" and a line break.
 To end a code block, you need three backticks "```"
 
 ```python
+# ```python - No # required when actually using markdown code
 # from data camp
 fig = px.scatter(
   data_frame=bball_data,
@@ -31,4 +32,5 @@ fig = px.scatter(
   y='FGP',
   title='Field Goal Percentage vs. Points Per Game')
 fig.show()
+#```
 ```
