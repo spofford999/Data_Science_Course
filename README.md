@@ -20,8 +20,8 @@ Data Science Course Content
 
 # Codeblocks
 
-To start a code block, you need three backticks ``` and a line break.
-To end a code block, you need three backticks```
+To start a code block, you need three backticks "```" and a line break.
+To end a code block, you need three backticks "```"
 
 ```python
 # from data camp
