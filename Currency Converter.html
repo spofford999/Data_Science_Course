@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CURRENCY CONVERTER</title>
+</head>
+
+<style>
+  body{
+      background: #e24444;
+  }
+</style>
+
+<script>
+function currencyConverter(valNum){
+if(converter.pounds.value <=0)
+window.alert("Value must be greater than 0");
+else(
+document.getElementById("euro").value = (valNum*1.16).toFixed(2)
+
+
+)
+}
+
+</script>
+
+<body>
+
+<h1>Currency Converter</h1>
+
+<form name="converter">
+
+<fieldset>
+
+<label>British Pounds (£): </label>
+<input type="number" name="pounds" required>
+<input type="button" value="Convert" onclick="currencyConverter(converter.pounds.value)"><br><br>
+
+<label>Euro (€): </label>
+<input id="euro"><br><br>
+
+<input type="reset" value="Reset Form"
+
+</fieldset>
+  
+</form>
+  
+</body>
+</html>
