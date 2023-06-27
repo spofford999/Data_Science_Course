@@ -18,7 +18,7 @@ The issues section can be located in the issues tab of the repository. For this 
 ![image](https://github.com/spofford999/Data_Science_Course/assets/127874678/2ebb09ed-e0ad-404c-aebb-ac7084aa67db)
 
 ### Kanban
-The kanban board can be located in the project tab of the repository. It is an effective tool to visualise the status of a project based on the status of the various issues/tasks raised. The label feature also provide more clarity to the task type. This screenshot is of the project that is not fully completed yet as you can see there are still items in the Todo, In Progress and In Review. A suggestion to also add a dollar conversion has been labelled as an enhancement task, where as another request to change the font as been labelled as 'wont fix', as it was deemed note required for the project.
+The kanban board can be located in the project tab of the repository. It is an effective tool to visualise the status of a project based on the status of the various issues/tasks raised. The label feature also provide more clarity to the task type. This screenshot is of the project that is not fully completed yet as you can see there are still items in the Todo, In Progress and In Review. A suggestion to also add a dollar conversion has been labelled as an enhancement task, where as another request to change the font as been labelled as 'wont fix', as it was deemed not required for the project.
 
 ![image](https://github.com/spofford999/Data_Science_Course/assets/127874678/8aa5ff39-0cfa-44c4-8fda-6606aa37c3fd)
 
