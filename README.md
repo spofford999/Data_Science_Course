@@ -32,3 +32,6 @@ Github was used to store html code and a readme file explain this small project 
 
 ## References
 Aamir Projects (2019) *How To Create Currency Converter Using Html*. Available at: [http://youtu.be/yCv4iyPqZKQ](https://www.youtube.com/watch?v=X4E4lnUgzgc)https://www.youtube.com/watch?v=X4E4lnUgzgc (Accessed 25 June 2023).
+
+## Final Changes
+Adding new changes to readme - 6.7.23 10.45
